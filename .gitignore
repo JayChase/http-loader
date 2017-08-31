@@ -7,17 +7,17 @@ manifest.mf
 build.xml
 node_modules/*
 npm-debug.log
-*.js
+# *.js
 !config/*
 !karma.conf.js
 !webpack.config.js
 *.map
-*.d.ts
+# *.d.ts
 !make.js
 !examples/**/*.js
 coverage
-*.metadata.json
-bundles
+# *.metadata.json
+# bundles
 
 #################
 ## JetBrains
